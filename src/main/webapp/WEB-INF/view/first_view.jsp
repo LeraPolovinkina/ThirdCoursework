@@ -2,7 +2,9 @@
 <html>
 <body>
 <h2>
-    I did it!
+    Main page
 </h2>
+<br><br>
+<a href="askDetails">Please, write your details...</a>
 </body>
 </html>
